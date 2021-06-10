@@ -1,6 +1,8 @@
 # LW-Date-10-06-2021-Task-03
 
 # Create Live Streaming Video Chat App without voice using cv2 module of Python
+![a](https://user-images.githubusercontent.com/78929192/121529859-6fe26300-ca1a-11eb-906a-7960d7ebfd15.PNG)
+
 
 Socket Programming in Python
 Socket programming is a way of connecting two nodes on a network to communicate with each other. One socket(node) 
